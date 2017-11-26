@@ -37,3 +37,6 @@ Then just run the script and follow the instructions in terminal:
 ```
 ruby twatter.rb
 ````
+
+## Issues and Pull Requests
+If you've found any problems please raise an issue. I also welcome any suggested solutions to outstanding issues or new issues, I welcome pull requests. If you've found Twatter helpful it would be good to hear from you on [Twitter](https://www.twitter.com/elliottinvent).
