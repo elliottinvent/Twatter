@@ -1,0 +1,10 @@
+--- 
+sleep_ms: 1000 # Amount of time to to wait between checks, in milliseconds (1000 is 1 second)
+twitter:
+  consumer_key: YOUR_CONSUMER_KEY
+  consumer_secret: YOUR_CONSUMER_SECRET
+  access_token: YOUR_ACCESS_TOKEN
+  access_token_secret: YOUR_ACCESS_TOKEN_SECRET
+logging :
+  max_size: 1024000 # 1024000 = 10mb
+  old_logs: 10 # keep 10 logs before starting to overwrite

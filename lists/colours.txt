@@ -1,0 +1,17 @@
+blue
+black
+green
+brown
+cyan
+gold
+indigo
+lilac
+magenta
+orange
+pink
+red
+ruby
+silver
+teal
+white
+yellow
