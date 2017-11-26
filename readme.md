@@ -4,6 +4,7 @@ This tool is designed for nerds that want a good (or best possible) Twitter hand
 A note for my American cousins: twat (rhymes with bat) doesn't mean the same in UK as it does in America, it's different. It's a bit like 'goofy jerk' but English. Anyway, back to Twatter.
 
 Here's a preview of it in action:
+
 ![Twatter in action](https://cdn-images-1.medium.com/max/1600/1*Qzkouxnj6_fqkh2HbKR0zw.gif)
 
 ## Other use cases
@@ -37,6 +38,20 @@ Then just run the script and follow the instructions in terminal:
 ```
 ruby twatter.rb
 ````
+
+## Loading Lists into Twatter
+Two lists have been provided, a simple example file listing colours (list/colours.txt) and a list of the most common words in the english language courtesy of [deekayen](https://gist.github.com/deekayen/4148741). New lists can be created simply by entering words or characters on new lines and saving the file in the 'lists' directory.
+
+Loading the files into Twatter is simple, just enter them in your pattern surrounded in square brackets:
+```
+[colours]clouds
+```
+
+This will generate combinations for 'blueclouds', 'blackclouds', 'greenclouds' etc. Lists can be created on the fly by comma separating values, e.g:
+
+```
+[great,good,ok,decent]example]
+```
 
 ## Issues, Pull Requests and Feedback
 If you've found any problems please raise an issue. I also welcome any suggested solutions to outstanding issues or new issues, I welcome pull requests. If you've found Twatter helpful it would be good to hear from you on [Twitter](https://www.twitter.com/elliottinvent).

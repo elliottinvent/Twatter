@@ -187,8 +187,17 @@ Signal.trap("TERM") {
   shut_down
 }
 
-# Load the settings file
-@settings = YAML.load_file("settings.yaml")
+begin
+  # Load the settings file
+  @settings = YAML.load_file("settings.yaml")
+rescue Exception=>e
+  puts
+  puts "You need to provide your Twitter API credentials in the settings.yml file."
+  puts "An example file is provided – 'settings.EXAMPLE.yaml', enter your credentials "
+  puts "in that file, rename it to settings.yaml and then run Twatter again."
+  puts
+  exit
+end
 
 begin
   # We delete the log that was created last time this program run
