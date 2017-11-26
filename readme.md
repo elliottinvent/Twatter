@@ -42,7 +42,7 @@ ruby twatter.rb
 ## Loading Lists into Twatter
 Two lists have been provided, a simple example file listing colours (list/colours.txt) and a list of the most common words in the english language courtesy of [deekayen](https://gist.github.com/deekayen/4148741). New lists can be created simply by entering words or characters on new lines and saving the file in the 'lists' directory.
 
-Loading the files into Twatter is simple, just enter them in your pattern surrounded in square brackets:
+Loading the files into Twatter is simple, just enter them in your pattern surrounded by square brackets:
 ```
 [colours]clouds
 ```
@@ -50,7 +50,7 @@ Loading the files into Twatter is simple, just enter them in your pattern surrou
 This will generate combinations for 'blueclouds', 'blackclouds', 'greenclouds' etc. Lists can be created on the fly by comma separating values, e.g:
 
 ```
-[great,good,ok,decent]example]
+[great,good,ok,decent]example
 ```
 
 ## Issues, Pull Requests and Feedback
