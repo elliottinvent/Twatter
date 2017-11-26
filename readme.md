@@ -18,10 +18,10 @@ If you don't already have an account with Twitter, just use the username you are
 - access_token
 - access_token_secret
 
-Enter this information in to the `settings.EXAMPLE.yaml` file and rename the file to `settings.yaml` and you're good to go. 
+Enter this information in to `settings.EXAMPLE.yaml` file, rename the file to `settings.yaml` and you're good to go. 
 
 ## Running Twatter
-Download the repository, navigate to the downloaded repository, add your Twitter credentials to settings.yml (see above) and then you're ready to run it. 
+Download the repository, navigate to the downloaded folder, add your Twitter credentials to settings.yml (see above) and then you're ready to run it. 
 
 if you're using Bundler, run:
 ```ruby
