@@ -1,5 +1,5 @@
 # Twatter
-This tool is designed for nerds that want a good (or best possible) Twitter handle, it shouldn't really be important but it just is. People that use Twatter are called twats, I built it so I suppose that makes me the biggest twat.
+This tool is designed for nerds that want a good (or best possible) Twitter handle, it shouldn't be that important but it just is, I built it after [struggling to find a handle](https://medium.com/@ElliottInvent/becoming-a-new-twitter-user-is-not-easy-3e08eb18d7fe). People that use Twatter are called twats, as the creator I am of course a massive twat.
 
 A note for my American cousins: twat (rhymes with bat) doesn't mean the same in UK as it does in America, it's different. It's a bit like 'goofy jerk' but English. Anyway, back to Twatter.
 
@@ -50,8 +50,10 @@ Loading the files into Twatter is simple, just enter them in your pattern surrou
 This will generate combinations for 'blueclouds', 'blackclouds', 'greenclouds' etc. Lists can be created on the fly by comma separating values, e.g:
 
 ```
-[great,good,ok,decent]example
+[great,good,ok,poor,bad]example
 ```
 
 ## Issues, Pull Requests and Feedback
 If you've found any problems please raise an issue. I also welcome any suggested solutions to outstanding issues or new issues, I welcome pull requests. If you've found Twatter helpful it would be good to hear from you on [Twitter](https://www.twitter.com/elliottinvent).
+
+Happy Twatting!
