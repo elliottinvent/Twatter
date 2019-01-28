@@ -8,7 +8,7 @@ Here's a preview of it in action:
 ![Twatter in action](https://cdn-images-1.medium.com/max/1600/1*Qzkouxnj6_fqkh2HbKR0zw.gif)
 
 ## Other use cases
-Twatter can be used for researchers looking for trends and for brand protection. I realise it also has uses for people building bots and those spreading 'fake news' – people looking to use it for that should [click here](https://www.youtube.com/watch?v=VQfrLViDnWo).
+Twatter can be used for researchers looking for trends and for brand protection. 
 
 ## You need your own Twitter Developer Account
 You need your own Twitter Developer account and credentials to use Twatter. Anyone with a Twitter account can sign up for a Developer account at https://dev.twitter.com/apps. 
